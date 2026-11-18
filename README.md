@@ -54,7 +54,7 @@ only used to serve the pages.
 ### Option B: PHP built-in server
 
 ```bash
-git clone https://github.com/<user>/logic-with-cards.git
+git clone https://github.com/Bateria-instantanea/logic-with-cards.git
 cd logic-with-cards
 php -S localhost:8000
 ```
@@ -111,4 +111,4 @@ Released under the MIT License. See [Licence.txt](Licence.txt).
 ## Contact
 
 Questions and bug reports: please open an issue in this repository or write to
-`<support e-mail>`.
+`conectadodigital123@gmail.com`.
